@@ -1,0 +1,73 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: Two engineers discover their research station has no remaining oxygen because of sabotage.
+CONTINUITY NOTES: Original fictional demonstration only; no Kuku content.
+--- SCRIPT START ---
+SCENE 01
+Scene heading: INT. ORBITAL STATION - CONTROL BAY - NIGHT
+Scene start: 00:00.00
+Scene end: 01:06.00
+
+**MAYA (Alarmed):**
+Start: (00:00.00) | End: (00:03.00)
+"Stop! Someone has shut down our oxygen supply!"
+
+**LEO (Disbelieving):**
+Start: (00:03.10) | End: (00:06.50)
+"That is impossible. The system has three backups."
+
+**MAYA (Pointing at the console):**
+Start: (00:06.60) | End: (00:10.00)
+"All three backup systems were disabled at exactly midnight."
+
+**LEO (Worried):**
+Start: (00:10.20) | End: (00:14.00)
+"Only the chief engineer has access to that control panel."
+
+**MAYA (Angry):**
+Start: (00:14.20) | End: (00:18.00)
+"Then someone stole the chief engineer's clearance card."
+
+**LEO (Urgent):**
+Start: (00:18.20) | End: (00:22.00)
+"We must reach the emergency shelter before the air runs out."
+
+**MAYA (Whispering):**
+Start: (00:22.20) | End: (00:26.00)
+"Look at the monitoring screen. There is one more person aboard."
+
+**LEO (Shocked):**
+Start: (00:26.20) | End: (00:29.00)
+"Who? The crew list shows only the two of us."
+
+**MAYA (Certain):**
+Start: (00:29.20) | End: (00:33.00)
+"I have proof someone entered the reactor room last night."
+
+**LEO (Quietly):**
+Start: (00:33.10) | End: (00:37.00)
+"Show me the recording before the system goes dark."
+
+**MAYA (Frightened):**
+Start: (00:37.20) | End: (00:41.00)
+"That is the commander. But the commander left yesterday."
+
+**LEO (Horrified):**
+Start: (00:41.10) | End: (00:44.00)
+"Then why does the recording show him entering the station?"
+
+**MAYA (Unsure):**
+Start: (00:44.10) | End: (00:48.00)
+"The door is opening again. Someone is coming toward us."
+
+**LEO (Demanding):**
+Start: (00:48.20) | End: (00:52.00)
+"Who is there? Identify yourself now!"
+
+**MAYA (Panicked):**
+Start: (00:52.10) | End: (00:56.00)
+"Wait! The voice on the intercom sounds like mine."
+
+**LEO (Tense):**
+Start: (00:56.10) | End: (01:02.00)
+"If that is your voice behind the door, then who are you?"
+--- SCRIPT END ---

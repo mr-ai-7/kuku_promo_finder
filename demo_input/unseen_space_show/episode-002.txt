@@ -1,0 +1,69 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: A mechanic suspects the station's distress beacon was intentionally redirected.
+CONTINUITY NOTES: Original fictional demonstration; different genre and character names from Kuku.
+--- SCRIPT START ---
+SCENE 01
+Scene heading: INT. ORBITAL STATION - ENGINE ROOM - NIGHT
+Scene start: 00:00.00
+Scene end: 01:00.00
+
+**RIN (Urgent):**
+Start: (00:00.00) | End: (00:03.40)
+"Help! The rescue ship is flying away from our station!"
+
+**DEV (Confused):**
+Start: (00:03.50) | End: (00:06.90)
+"That cannot be right. We transmitted the emergency signal."
+
+**RIN (Furious):**
+Start: (00:07.00) | End: (00:10.20)
+"Someone changed the beacon coordinates after I sent them."
+
+**DEV (Quietly):**
+Start: (00:10.30) | End: (00:13.90)
+"The system logs show your access code was used."
+
+**RIN (Defiant):**
+Start: (00:14.00) | End: (00:18.10)
+"You know I was with you all night. I didn't touch it."
+
+**DEV (Alarmed):**
+Start: (00:18.20) | End: (00:21.50)
+"There is a second transmitter hidden beneath the floor."
+
+**RIN (Tense):**
+Start: (00:21.60) | End: (00:25.20)
+"That cable connects directly to the command terminal."
+
+**DEV (Uneasy):**
+Start: (00:25.30) | End: (00:29.00)
+"It has been sending another signal every thirty seconds."
+
+**RIN (Suspicious):**
+Start: (00:29.10) | End: (00:33.20)
+"Who installed it? And why hide it from the crew?"
+
+**DEV (Shocked):**
+Start: (00:33.30) | End: (00:37.00)
+"The code was written by our own mission director."
+
+**RIN (Confused):**
+Start: (00:37.10) | End: (00:41.00)
+"But she is on the rescue ship. She can't be here."
+
+**DEV (Breathless):**
+Start: (00:41.10) | End: (00:45.00)
+"Wait. The command signal just changed its destination again."
+
+**RIN (Angry):**
+Start: (00:45.10) | End: (00:49.00)
+"You said the mission director controlled every transmitter."
+
+**DEV (Low, Frightened):**
+Start: (00:49.10) | End: (00:52.50)
+"Then what is that person doing inside our control room?"
+
+**RIN (Panicked):**
+Start: (00:52.60) | End: (00:56.00)
+"Stop! Someone is locking the airlock from the outside!"
+--- SCRIPT END ---

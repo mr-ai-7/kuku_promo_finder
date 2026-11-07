@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.streamlit/secrets.toml
+outputs/
+my_outputs/
+private_outputs/
+*.zip
+!demo_input/*.zip
+company_scripts*/
+confidential_scripts*/
