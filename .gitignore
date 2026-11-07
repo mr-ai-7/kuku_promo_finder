@@ -11,3 +11,5 @@ private_outputs/
 !demo_input/*.zip
 company_scripts*/
 confidential_scripts*/
+
+demo_results/
