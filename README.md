@@ -71,11 +71,3 @@ Kuku's original 50-episode pack is **confidential**. Do **not** commit its `.zip
 - No paid models were called to generate the offline raw outputs.
 - Changing the parser for a new format is expected; compatibility with Kuku-style timed text does not imply support for PDFs, MP4s or untimed stories.
 
-## Submit to Kuku (one selected problem)
-
-1. **Solution PDF (maximum 2 pages)** accurately describing your final v2 implementation and evaluated failures.
-2. **Prototype link** — deployed Streamlit app, or GitHub repo with executable instructions.
-3. **Raw outputs link** — original, unedited results from the full company pack, shared only with authorized reviewers.
-4. Optional **walkthrough video** (up to 3 minutes) in your own voice.
-
-Make sure you can explain a real failure of the approach, what role NLP plays, and why human video review remains necessary.
